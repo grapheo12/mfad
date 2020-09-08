@@ -13,10 +13,7 @@ See the issue #1 for design discussions.
 
 ## Ideas to ponder
 
-[x] Is it worth automating the process for all modes of communication (Moodle, Teams, Emails, etc.)?
-
-[x] Is using volunteer/representatives for each subject reliable?
-
-[x] Should we use Calendar Invites or Emails to notify subscribers?
-
-[x] Tech stack and mailing service to use.
+- [ ] Is it worth automating the process for all modes of communication (Moodle, Teams, Emails, etc.)?
+- [ ] Is using volunteer/representatives for each subject reliable?
+- [ ] Should we use Calendar Invites or Emails to notify subscribers?
+- [ ] Tech stack and mailing service to use.
